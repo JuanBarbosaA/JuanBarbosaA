@@ -1,15 +1,26 @@
 # 👋 Hi, I'm Juan Barbosa
 
 ### 🧑‍💻 About Me
-- 🌐 Web Developer with **3 years of experience**, specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, **CSS**, and more.
-- 📚 Experienced in working with both **frontend** and **backend** technologies, including **MongoDB**, **Git**, and **Sass**.
-- 🚀 Passionate about building user-friendly and visually appealing web applications.
-- 🌱 Always eager to learn and adapt to new technologies and trends in web development.
-  
+- 🌐 Web Developer with **3 years of experience**, specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, and **CSS**.
+- 📚 Skilled in both **frontend** and **backend** development, with experience using **MongoDB**, **Node.js**, **Git**, and **Sass**.
+- 🚀 I create dynamic and intuitive web applications that improve user engagement by leveraging modern technologies.
+- 🌱 Always eager to learn and adapt to the latest trends in web development.
+
+---
+
 ### 🔧 Technologies & Tools
 - **Frontend:** React, Tailwind CSS, Bootstrap, Vanilla JS, Sass
 - **Backend:** Node.js, MongoDB, APIs
-- **Others:** Git, Figma
+- **Others:** Git, Figma, MySQL
+
+---
+
+### 🚀 Featured Projects
+- [**E-commerce Platform**](https://github.com/juanbarbosa/ecommerce-platform): A fully responsive e-commerce site built with React, Node.js, and MongoDB, featuring a secure checkout process and admin panel.
+- [**Portfolio Website**](https://juanbarbosa.dev): A personal portfolio created with React and Tailwind CSS, showcasing my work and skills.
+- [**Task Manager API**](https://github.com/juanbarbosa/task-manager-api): A RESTful API for task management, built with Node.js, Express, and MongoDB.
+
+---
 
 ### 🛠 Skills & Tools
 <div>
@@ -26,9 +37,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
 </div>
 
-### 📈 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical)
+---
+
+### 📈 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanbarbosa&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+</div>
+
+---
 
 ### 📫 Contact
-- Email: [juanbarbosavella@gmail.com](mailto:juanbarbosavella@gmail.com)
-- LinkedIn: [linkedin.com/in/juanbarbosa](https://linkedin.com/in/juanbarbosa)
+- **Email:** [juanbarbosavella@gmail.com](mailto:juanbarbosavella@gmail.com)
+- **LinkedIn:** [linkedin.com/in/juanbarbosa](https://linkedin.com/in/juanbarbosa)
+- **Portfolio:** [juanbarbosa.dev](https://juanbarbosa.dev)
