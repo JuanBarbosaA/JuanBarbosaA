@@ -15,5 +15,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical)
 
 ### 📫 Contact
-- Email: [juan.dev@example.com](mailto:juan.dev@example.com)
+- Email: [juanbarbosavella@gmail.com](mailto:juanbarbosavella@gmail.com)
 - LinkedIn: [linkedin.com/in/juanbarbosa](https://linkedin.com/in/juanbarbosa)
