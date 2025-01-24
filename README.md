@@ -4,7 +4,7 @@
 - 🌐 Web Developer with **3 years of experience** specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, and **CSS**.
 - 📚 Passionate about building user-friendly and visually appealing web applications.
 - 🚀 Always eager to learn new technologies and improve my skills.
-- 
+  
 ### 🔧 Technologies & Tools
 - **Frontend:** React, Tailwind CSS, Bootstrap, Vanilla JS
 - **Backend:** Node.js, APIs
@@ -20,7 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+          
           
 </div>
 
