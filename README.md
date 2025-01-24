@@ -41,7 +41,7 @@
 
 ### 📈 GitHub Stats
 <div>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=black](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=highcontrast&langs_count=10)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=highcontrast&langs_count=10"/>
 </div>
 
 ---
