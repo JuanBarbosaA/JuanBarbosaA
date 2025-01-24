@@ -7,7 +7,7 @@
 
 ### 🔧 Technologies & Tools
 - **Frontend:** React, Tailwind CSS, Bootstrap, Vanilla JS
-- **Backend:** Node.js (learning), APIs
+- **Backend:** Node.js, APIs
 - **Others:** Git, Figma
 
 ### 📈 Stats
