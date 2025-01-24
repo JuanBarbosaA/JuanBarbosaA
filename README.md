@@ -49,5 +49,5 @@
 
 ### 📫 Contact
 - **Email:** [juanbarbosavella@gmail.com](mailto:juanbarbosavella@gmail.com)
-- **LinkedIn:** [linkedin.com/in/juanbarbosa](https://linkedin.com/in/juanbarbosa)
+- **LinkedIn:** [linkedin.com/in/juanbarbosa]([https://linkedin.com/in/juanbarbosa](https://www.linkedin.com/in/juan-barbosa-66006a2bb/))
 - **Portfolio:** [juanbarbosa.dev](https://juanbarbosa.dev)
