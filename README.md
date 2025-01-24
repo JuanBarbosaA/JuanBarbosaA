@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Barbosa
 
-<!--
-**JuanBarbosaA/JuanBarbosaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
+- 🌐 Web Developer with **3 years of experience** specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, and **CSS**.
+- 📚 Passionate about building user-friendly and visually appealing web applications.
+- 🚀 Always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Frontend:** React, Tailwind CSS, Bootstrap, Vanilla JS
+- **Backend:** Node.js (learning), APIs
+- **Others:** Git, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanbarbosa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical)
+
+### 📫 Contact
+- Email: [juan.dev@example.com](mailto:juan.dev@example.com)
+- LinkedIn: [linkedin.com/in/juanbarbosa](https://linkedin.com/in/juanbarbosa)
