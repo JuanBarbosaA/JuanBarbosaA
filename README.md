@@ -42,7 +42,7 @@
 ### 📈 GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript"/>
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.2-green?style=for-the-badge&logo=mongodb)
 
