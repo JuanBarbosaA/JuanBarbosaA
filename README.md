@@ -41,7 +41,7 @@
 
 ### 📈 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=black"/>
 
 </div>
 
