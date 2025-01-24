@@ -41,7 +41,8 @@
 
 ### 📈 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanbarbosa&layout=compact&theme=radical"/>
+
 </div>
 
 ---
