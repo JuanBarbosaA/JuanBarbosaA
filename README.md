@@ -10,7 +10,7 @@
 - **Backend:** Node.js, APIs
 - **Others:** Git, Figma
 ### 🛠 Skills & Tools
-<div style="margin: 0 auto; display: flex; gap: 15px; justify-content: center; align-items: center;">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
