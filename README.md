@@ -19,6 +19,7 @@
 - [**E-commerce Platform**](https://github.com/juanbarbosa/ecommerce-platform): A fully responsive e-commerce site built with React, Node.js, and MongoDB, featuring a secure checkout process and admin panel.
 - [**Portfolio Website**](https://juanbarbosa.dev): A personal portfolio created with React and Tailwind CSS, showcasing my work and skills.
 - [**Task Manager API**](https://github.com/juanbarbosa/task-manager-api): A RESTful API for task management, built with Node.js, Express, and MongoDB.
+- [**Admin Dashboard**](https://github.com/juanbarbosa/admin-dashboard): A dynamic, feature-rich admin dashboard built with React, Tailwind CSS, Chart.js, and PostgreSQL. It includes real-time data visualization, user management, and performance metrics to help businesses track and manage operations efficiently.
 
 ---
 
