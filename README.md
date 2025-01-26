@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juan Barbosa
 
 ### 🧑‍💻 About Me
-- 🌐 Web Developer with **3 years of experience**, specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, and **CSS**.
+- 🌐 Web Developer specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, and **CSS**.
 - 📚 Skilled in both **frontend** and **backend** development, with experience using **MongoDB**, **Node.js**, **Git**, and **Sass**.
 - 🚀 I create dynamic and intuitive web applications that improve user engagement by leveraging modern technologies.
 - 🌱 Always eager to learn and adapt to the latest trends in web development.
