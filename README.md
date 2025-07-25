@@ -1,10 +1,9 @@
-# Welcome, I'm Juan Barbosa👋 
+# Welcome, I'm Juan Barbosa 👋 
 
 ## About Me
-- 🌐 Web Developer specializing in **JavaScript**, **React**, **Tailwind CSS**, **Bootstrap**, and **CSS**.
-- 📚 Skilled in both **frontend** and **backend** development, with experience using **MongoDB**, **Node.js**, **Git**, and **Sass**.
-- 🚀 I create dynamic and intuitive web applications that improve user engagement by leveraging modern technologies.
-- 🌱 Always eager to learn and adapt to the latest trends in web development.
+> 💡 Passionate about **JavaScript**, **React**, and **Tailwind CSS**.  
+> 🚀 Building dynamic, user-focused web experiences.  
+> 📚 Forever learning and adapting to the latest in development.
 
 ## GitHub Stats
 <div>
@@ -19,21 +18,40 @@
 </div>
 
 ## Featured Projects
-- [**E-commerce Platform**](https://github.com/juanbarbosa/ecommerce-platform):<br/>
-  A fully responsive e-commerce site built with React, Node.js, and MongoDB, featuring a secure checkout process and admin panel.
+#### 🔹 [E-commerce Platform](https://github.com/juanbarbosa/ecommerce-platform)
+**Responsive store built with React, Node.js & MongoDB**  
+Secure checkout, admin panel, dynamic product pages.
 
-- [**Portfolio Website**](https://juanbarbosa.dev):<br/>
-  A personal portfolio created with React and Tailwind CSS, showcasing my work and skills.
+#### 🔹 [Portfolio Website](https://juanbarbosa.dev)
+**Personal showcase using React & Tailwind CSS**  
+Clean layout, responsive sections, and seamless user experience.
 
-- [**Task Manager API**](https://github.com/juanbarbosa/task-manager-api):<br/>
-  A RESTful API for task management, built with Node.js, Express, and MongoDB.
+#### 🔹 [Task Manager API](https://github.com/juanbarbosa/task-manager-api)
+**RESTful API for task management**  
+Built with Node.js, Express & MongoDB, structured routes and authentication.
 
-- [**Admin Dashboard**](https://github.com/juanbarbosa/admin-dashboard):<br/>
-  A dynamic, feature-rich admin dashboard built with React, Tailwind CSS, Chart.js, and PostgreSQL. It includes real-time data visualization, user management, and performance metrics to help businesses track and manage operations efficiently.
+#### 🔹 [Admin Dashboard](https://github.com/juanbarbosa/admin-dashboard)
+**Advanced dashboard with real-time data**  
+React + Tailwind CSS + Chart.js + PostgreSQL. Includes user management and performance insights.
 
 
 
-## Contact
-- **Email:** [juanbarbosavella@gmail.com](mailto:juanbarbosavella@gmail.com)
-- **LinkedIn:** [linkedin.com/in/juanbarbosa](https://www.linkedin.com/in/juan-barbosa-66006a2bb/)
-- **Portfolio:** [juanbarbosa.dev](https://juanbarbosa.dev)
+## 📫 Contact Me
+
+<table>
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" title="Email" width="40" height="40"/><br/>
+      <a href="mailto:juanbarbosavella@gmail.com">Email</a>
+    </td>
+    <td align="center" style="padding: 8px;">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/><br/>
+      <a href="https://www.linkedin.com/in/juan-barbosa-66006a2bb/">LinkedIn</a>
+    </td>
+    <td align="center" style="padding: 8px;">
+      <img src="https://avatars.githubusercontent.com/u/126805180?v=4" alt="Portfolio" title="Portfolio" width="40" height="40"/><br/>
+      <a href="https://juanbarbosa.dev">Portfolio</a>
+    </td>
+  </tr>
+</table>
+
