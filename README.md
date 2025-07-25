@@ -7,7 +7,8 @@ I’m into tech 🚀, enjoy writing code 💻, and build web apps that actually 
 📌 Focused and detail-oriented, balancing tasks with care.<br/>
 🌿 Always curious—constantly learning and improving, at work and in life.
 
-## GitHub Stats
+
+### Web Developer
 <div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JuanBarbosaA&theme=highcontrast&hide_border=true&border_radius=9.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
@@ -38,7 +39,7 @@ React + Tailwind CSS + Chart.js + PostgreSQL. Includes user management and perfo
 
 
 
-## 📫 Contact Me
+## Contact
 
 [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" title="Email" width="24" height="24"/>](mailto:juanbarbosavella@gmail.com) **Email** [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24"/>](https://www.linkedin.com/in/juan-barbosa-66006a2bb/) **LinkedIn** [<img src="https://avatars.githubusercontent.com/u/126805180?v=4" alt="Portfolio" title="Portfolio" width="24" height="24"/>](https://juanbarbosaa.github.io/) **Portfolio**
 
