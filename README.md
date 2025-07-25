@@ -40,6 +40,24 @@ React + Tailwind CSS + Chart.js + PostgreSQL. Includes user management and perfo
 
 
 ## Contact
+<table>
+  <tr>
+    <td>
+      <a href="mailto:juanbarbosavella@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/juan-barbosa-66006a2bb" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://juanbarbosaa.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" title="Email" width="24" height="24"/>](mailto:juanbarbosavella@gmail.com) **Email** [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24"/>](https://www.linkedin.com/in/juan-barbosa-66006a2bb/) **LinkedIn** [<img src="https://avatars.githubusercontent.com/u/126805180?v=4" alt="Portfolio" title="Portfolio" width="24" height="24"/>](https://juanbarbosaa.github.io/) **Portfolio**
 
