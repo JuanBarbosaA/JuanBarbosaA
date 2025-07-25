@@ -1,9 +1,11 @@
 # Welcome, I'm Juan Barbosa 👋 
 
 ## About Me
-> 💡 Passionate about **JavaScript**, **React**, and **Tailwind CSS**.  
-> 🚀 Building dynamic, user-focused web experiences.  
-> 📚 Forever learning and adapting to the latest in development.
+I’m into tech 🚀, enjoy writing code 💻, and build web apps that actually make a difference 🌱 — consistently growing.
+
+🧑‍🤝‍🧑 Collaborative and dependable—keen on clear communication and teamwork.<br/>
+📌 Focused and detail-oriented, balancing tasks with care.<br/>
+🌿 Always curious—constantly learning and improving, at work and in life.
 
 ## GitHub Stats
 <div>
@@ -38,20 +40,5 @@ React + Tailwind CSS + Chart.js + PostgreSQL. Includes user management and perfo
 
 ## 📫 Contact Me
 
-<table>
-  <tr>
-    <td align="center" style="padding: 8px;">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" title="Email" width="40" height="40"/><br/>
-      <a href="mailto:juanbarbosavella@gmail.com">Email</a>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/><br/>
-      <a href="https://www.linkedin.com/in/juan-barbosa-66006a2bb/">LinkedIn</a>
-    </td>
-    <td align="center" style="padding: 8px;">
-      <img src="https://avatars.githubusercontent.com/u/126805180?v=4" alt="Portfolio" title="Portfolio" width="40" height="40"/><br/>
-      <a href="https://juanbarbosa.dev">Portfolio</a>
-    </td>
-  </tr>
-</table>
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" title="Email" width="24" height="24"/>](mailto:juanbarbosavella@gmail.com) **Email** [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24"/>](https://www.linkedin.com/in/juan-barbosa-66006a2bb/) **LinkedIn** [<img src="https://avatars.githubusercontent.com/u/126805180?v=4" alt="Portfolio" title="Portfolio" width="24" height="24"/>](https://juanbarbosaa.github.io/) **Portfolio**
 
